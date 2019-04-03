@@ -1,5 +1,5 @@
 {
   "weeklyReportComponent": {
-    "generateTime": "0 16 * * *"
+    "generateTime": "15 16 * * *"
   }
 }
