@@ -1,5 +1,5 @@
 module.exports = {
-  "labelSetup": {
+  "labelSetupComponent": {
     enable: true
   },
   "dataService": {
