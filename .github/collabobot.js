@@ -1,6 +1,6 @@
 module.exports = {
   "dataService": {
-    updateTime: "*/2 * * * *"
+    updateTime: "*/1 * * * *"
   },
   "weeklyReportComponent": {
     "generateTime": "20 17 * * *"
