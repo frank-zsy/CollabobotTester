@@ -11,6 +11,6 @@ module.exports = {
   },
   "weeklyReportComponent": {
     enable: true,
-    "generateTime": "6 17 * * *"
+    "generateTime": "18 17 * * *"
   }
 }
