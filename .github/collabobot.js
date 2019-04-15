@@ -12,5 +12,8 @@ module.exports = {
   "weeklyReportComponent": {
     enable: true,
     "generateTime": "23 17 * * *"
+  },
+  "prSizeLabelComponent": {
+    enable: true
   }
 }
