@@ -10,6 +10,7 @@ module.exports = {
     updateTime: "*/10 * * * *"
   },
   "weeklyReportComponent": {
+    enable: true,
     "generateTime": "20 17 * * *"
   }
 }
